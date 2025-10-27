@@ -25,4 +25,3 @@ jobs:
           git add daily-log.txt
           git commit -m "Automated daily commit [skip ci]" || echo "No changes to commit"
           git push
-
